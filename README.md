@@ -109,8 +109,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/flask-boilerplate-dashboard-argon.git
-$ cd flask-boilerplate-dashboard-argon
+$ git clone https://github.com/app-generator/boilerplate-code-django-dashboard.git
+$ cd boilerplate-code-django-dashboard
 ```
 
 > Start the app in Docker
