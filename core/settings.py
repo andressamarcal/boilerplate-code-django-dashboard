@@ -17,7 +17,7 @@ PROJECT_DIR = Path(__file__).parent
 SECRET_KEY = config('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG')
+DEBUG = False # config('DEBUG')
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'boilerplate-django-dashboard.herokuapp.com']
 
