@@ -14,10 +14,10 @@ BASE_DIR    = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_DIR = Path(__file__).parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('SECRET_KEY')
+SECRET_KEY = config('SECRET_KEY', default='S#perS3crEt_1122')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False # config('DEBUG')
+DEBUG = config('DEBUG', default=True)
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'boilerplate-django-dashboard.herokuapp.com']
 
@@ -144,4 +144,4 @@ STATICFILES_DIRS = (
 #############################################################
 
 # Activate Django-Heroku.
-django_heroku.settings(locals())
+#django_heroku.settings(locals())
