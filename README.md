@@ -87,8 +87,8 @@ $ # Push the source code and trigger the deploy
 $ git push heroku master
 $
 $ # Execute DBSchema Migration
-$ heroku run python manage.py migrate
 $ heroku run python manage.py makemigrations
+$ heroku run python manage.py migrate
 $
 $ # Visit the deployed app in browser.
 $ heroku open
