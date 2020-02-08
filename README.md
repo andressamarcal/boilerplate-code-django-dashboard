@@ -2,14 +2,14 @@
 
 Playground **boilerplate code** used by the **[AppSeed](https://appseed.us)** community for simple Django Admin Dashboards.
 
-![Django Dashboard Adminator - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/django-dashboard-adminator-screen.png)
+![Django Dashboard Adminator - Open-Source Web App.](https://raw.githubusercontent.com/app-generator/static/master/products/boilerplate-code-django-dashboard-screen.png)
 
 <br />
 
 ## How it works
 
-Anyone can submit requests for new modules and features using the issues tracker provided by Github. Popular features will be coded by the AppSeed team and later integrated in the automated workflow. 
-For more information please access the **[AppSeed](https://appseed.us)** platform or join the community on [Discord](https://discord.gg/fZC6hup). 
+Anyone can submit requests for new modules and features using the issues tracker provided by Github. Popular features will be coded by the AppSeed team and later integrated into the automated workflow.
+For more information please access the **[AppSeed](https://appseed.us)** platform or join the community on [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
