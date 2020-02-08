@@ -17,7 +17,7 @@ from .forms import LoginForm, SignUpForm
 def login_view(request):
     form = LoginForm(request.POST or None)
 
-    msg = 'Sign in with credentials'
+    msg = None
 
     if request.method == "POST":
 
