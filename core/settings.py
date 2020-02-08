@@ -144,6 +144,4 @@ STATICFILES_DIRS = (
 #############################################################
 
 # Activate Django-Heroku.
-# django_heroku handler is a show stopper for Docker Build
-if not DEBUG:
-    django_heroku.settings(locals())
+django_heroku.settings(locals())
