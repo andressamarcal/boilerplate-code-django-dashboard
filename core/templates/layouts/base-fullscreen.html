@@ -33,10 +33,10 @@
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
   <!-- Icons -->
-  <link href="/static/assets/js/plugins/nucleo/css/nucleo.css" rel="stylesheet" />
-  <link href="/static/assets/js/plugins/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet" />
+  <link href="{% static 'assets/js/plugins/nucleo/css/nucleo.css' %}" rel="stylesheet" />
+  <link href="{% static 'assets/js/plugins/@fortawesome/fontawesome-free/css/all.min.css' %}" rel="stylesheet" />
   <!-- CSS Files -->
-  <link href="/static/assets/css/argon-dashboard.css?v=1.1.0" rel="stylesheet" />
+  <link href="{% static 'assets/css/argon-dashboard.css' %}" rel="stylesheet" />
 
   <!-- Specific CSS goes HERE -->
   {% block stylesheets %}{% endblock stylesheets %}
@@ -57,7 +57,9 @@
             <div class="col-lg-5 col-md-6">
               <h1 class="text-white">Django Dashboard Argon</h1>
               <p class="text-lead text-light">
-                UI-Ready open-source admin panel enhanced with database and authentication - Coded by AppSeed.  
+                Open-source admin panel Coded by AppSeed 
+                <br />
+                <a class="text-white" href="https://github.com/app-generator/boilerplate-code-django-dashboard/issues">Request a Feature</a>.   
               </p>
             </div>
           </div>
