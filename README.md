@@ -98,21 +98,21 @@ The project is coded using a simple and intuitive structure presented bellow:
    |     page-500.html                     # Error 404 page
    |       *.html                          # All other HTML pages
    |
-   |-- authentication/                    # Handles auth routes (login and register)
+   |-- authentication/                     # Handles auth routes (login and register)
    |    |
-   |    |-- urls.py                       # Define authentication routes  
-   |    |-- views.py                      # Handles login and registration  
-   |    |-- forms.py                      # Define auth forms  
+   |    |-- urls.py                        # Define authentication routes  
+   |    |-- views.py                       # Handles login and registration  
+   |    |-- forms.py                       # Define auth forms  
    |
-   |-- app/                               # A simple app that serve HTML files
+   |-- app/                                # A simple app that serve HTML files
    |    |
-   |    |-- views.py                      # Serve HTML pages for authenticated users
-   |    |-- urls.py                       # Define some super simple routes  
+   |    |-- views.py                       # Serve HTML pages for authenticated users
+   |    |-- urls.py                        # Define some super simple routes  
    |
-   |-- requirements.txt                   # Development modules - SQLite storage
+   |-- requirements.txt                    # Development modules - SQLite storage
    |
-   |-- .env                               # Inject Configuration via Environment
-   |-- manage.py                          # Start the app - Django default start script
+   |-- .env                                # Inject Configuration via Environment
+   |-- manage.py                           # Start the app - Django default start script
    |
    |-- ************************************************************************
 ```
