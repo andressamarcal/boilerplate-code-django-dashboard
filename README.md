@@ -10,7 +10,7 @@
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- Sample UI Kit: **[Datta Able](https://codedthemes.com/item/datta-able-bootstrap-lite/?ref=appseed)** (Free version) provided by **CodedThemes**
+- Sample UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
 - **MIT License**
 - Free support via **Github** issues tracker
 - Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
@@ -18,8 +18,8 @@
 > Links
 
 - LIVE Demo: [Boierplate Code Django Dashboard](https://boilerplate-code-django-dashboard.appseed.us/)
-- Official Page: [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-dashboard)
-- Documentation: [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask-dashboard)
+- Official Page: [Boierplate Code Flask](https://appseed.us/boilerplate-code/django-dashboard)
+- Documentation: [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/django-dashboard)
 
 <br />
 
