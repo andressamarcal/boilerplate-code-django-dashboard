@@ -17,9 +17,9 @@
 
 > Links
 
-- LIVE Demo: [Boierplate Code Django Dashboard](https://boilerplate-code-django-dashboard.appseed.us/)
-- Official Page: [Boierplate Code Flask](https://appseed.us/boilerplate-code/django-dashboard)
-- Documentation: [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/django-dashboard)
+- [Boierplate Code Django Dashboard](https://boilerplate-code-django-dashboard.appseed.us/login.html) - LIVE Demo 
+- [Boierplate Code Django](https://appseed.us/boilerplate-code/django-dashboard) - Official product page
+- [Boierplate Code Django](https://docs.appseed.us/boilerplate-code/django-dashboard) - Starter docs
 
 <br />
 
