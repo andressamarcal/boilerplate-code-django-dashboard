@@ -1,6 +1,6 @@
 # [Boierplate Code Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/)- Features
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/) - Features
 
 - Sample UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
 - UI-Ready app, SQLite Database, Django Native ORM

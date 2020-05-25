@@ -1,7 +1,8 @@
 {
   "name": "boilerplate-code-django-dashboard",
+  "mastertemplate": "boilerplate-code-flask-dashboard",
   "version": "0.0.1",
-  "description": "Open-source template project - Django Dashboard Boilerplate Code.",
+  "description": "Template project - Django Dashboard Boilerplate Code.",
   "scripts": {
   },
   "repository": {
@@ -13,7 +14,6 @@
       "email": "support@appseed.us"
   },
   "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
-  "license": "MIT",
   "engines": {
       "node": ">=10.0.0"
   },
