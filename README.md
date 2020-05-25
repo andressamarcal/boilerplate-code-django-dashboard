@@ -1,25 +1,23 @@
 # [Boierplate Code Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/)
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/)- Features
 
-<br />
-
-## Dashboard Features
-
+- Sample UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- Sample UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
 - **MIT License**
 - Free support via **Github** issues tracker
 - Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
-- [Boierplate Code Django Dashboard](https://boilerplate-code-django-dashboard.appseed.us/login.html) - LIVE Demo 
-- [Boierplate Code Django](https://appseed.us/boilerplate-code/django-dashboard) - Official product page
-- [Boierplate Code Django](https://docs.appseed.us/boilerplate-code/django-dashboard) - Starter docs
+- [Boierplate Code Django Dashboard](https://boilerplate-code-django-dashboard.appseed.us/) - LIVE Demo
+- [Boierplate Code Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard) - Official product page
+- [Boierplate Code Django Dashboard](https://docs.appseed.us/boilerplate-code/django-dashboard) - Starter docs
+- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
+- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
 <br />
 
