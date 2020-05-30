@@ -1,5 +1,8 @@
 # Change Log
 
+## [Unreleased]
+- Update Licensing information
+
 ## [1.0.1] 2020-05-30
 ### Bug fixing, Improvements
 - Add CHANGELOG.md to track all changes
